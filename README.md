@@ -1,5 +1,5 @@
 # Meta-1.1.-Identificar-los-elementos-b-sicos-del-lenguaje_Andrea-Vara
-Meta 1.1 de programacion con Python. 
+Meta 1.3 Vara Andrea. 
 1. Pregunte por teclado (input) por dos valores e imprime los resultados de las
 siguientes operaciones con esos dos valores: suma, resta, multiplicación, división
 real, división entera, módulo, exponenciación.
